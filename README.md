@@ -1,4 +1,5 @@
-# 👨‍💻 André Gonçallez | Road to SecDevOps & Cloud Security Engineer
+# 👨‍💻 André Gonçallez 
+# Road to SecDevOps & Cloud Security Engineer
 
 ![GitHub followers](https://img.shields.io/github/followers/AndreGoncallez?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndreGoncallez?label=Último%20commit)
